@@ -4,7 +4,7 @@
 
 Comment administrer une machine virtuelle sur AWS qui **n'est joignable par aucun moyen depuis Internet** ? Ce dépôt documente toute la démarche, d'une VM web publique construite avec Terraform et Ansible jusqu'à une VM entièrement privée, et compare les façons d'y accéder une fois fermée.
 
-Rédigé pendant mon alternance en cybersécurité (Bachelor 3).
+Rédigé pendant mon alternance en cybersécurité (Bachelor 3). Les documents 2 et 3 ont d'abord été publiés dans [aws-acces-vm-priv-](https://github.com/thomaspeyr31/aws-acces-vm-priv-).
 
 ## Contenu
 

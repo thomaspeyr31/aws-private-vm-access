@@ -8,7 +8,7 @@
 
 How do you administer a virtual machine on AWS that **cannot be reached from the Internet at all**? This repository documents the whole journey, from a public web VM built with Terraform and Ansible to a fully private one, and compares the ways to reach it once it is closed.
 
-Written during my work-study placement in cybersecurity (Bachelor year 3). The documents are in French.
+Written during my work-study placement in cybersecurity (Bachelor year 3). The documents are in French. Documents 2 and 3 were first published in [aws-acces-vm-priv-](https://github.com/thomaspeyr31/aws-acces-vm-priv-).
 
 ## What's inside
 
